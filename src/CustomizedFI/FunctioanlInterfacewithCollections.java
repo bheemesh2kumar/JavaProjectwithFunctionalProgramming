@@ -30,6 +30,7 @@ public class FunctioanlInterfacewithCollections {
         System.out.println("odd numbers are");
         List<Integer> newvalues1 = values.stream().filter(i -> i % 2 != 0).sorted().collect(Collectors.toList());
         System.out.println(newvalues1);
+        System.out.println("successfully added agian");
 
 
     }
