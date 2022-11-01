@@ -21,7 +21,6 @@ public class StarPattern1 {
 
     public static void main(String[] args) {
         printnumberPattern(5);
-         System.out.println("successfully programe file added for reference ");
-        System.out.println("task complete ");
+        System.out.println("this is normla patterns programe");
     }
 }
