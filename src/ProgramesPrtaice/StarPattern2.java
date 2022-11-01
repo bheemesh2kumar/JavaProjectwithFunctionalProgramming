@@ -25,8 +25,6 @@ public class StarPattern2 {
             System.out.println("this loop of " + i);
         }
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println("this loop of " + i);
-        }
+
     }
 }
